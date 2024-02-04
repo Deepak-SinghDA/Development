@@ -1,0 +1,23 @@
+ .btn-danger{
+ 	margin-top: 20px;
+ 	background-color: orange;
+ 	margin-left: 20px;
+ }
+ .btn-danger:hover{
+ 	background-color: black;
+ }
+
+ #carouselExample{
+ 	height: auto;
+ 	width:auto;
+ }
+
+ .container {
+ 	margin: 20px;
+ 	border: 5px dashed black;
+ 	width: 600px;
+ 	padding: 20px;
+ 	display: flex;
+ 	flex-wrap: wrap;
+ 	background-color: greenyellow;
+ }
